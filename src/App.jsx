@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 import { Tablero } from "./components/Tablero/Tablero";
-const emojiList = [..."💀👻🧛🌮🎱🍬🍕🦖"];
+const emojiList = [..."💀💕🍾☕😎🙈🐴🤣"];
 
 function App() {
   const [memobloquesbarajeados, setMemobloquesbarajeados] = useState([]);
